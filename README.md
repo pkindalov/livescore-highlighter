@@ -6,3 +6,4 @@ Search and if find team highlight background with yellow and underline team name
 
 
 <img src="screenshot1.png" alt="result picture one" />
+<img src="screenshot2.png" alt="result picture one" />
