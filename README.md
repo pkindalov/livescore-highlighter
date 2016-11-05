@@ -4,6 +4,8 @@ Search and if find team highlight background with yellow and underline team name
 
 <p>In pictures below the results which contains teams with FC in their names.</p>
 
+<p style="color: red">Important. When refresh browser the site will return on it original states. For better effect you must use <em>Tampermonkey</em> extension for Chrome and load this function on it.</p>
+
 
 <img src="screenshot1.png" alt="result picture one" />
 <img src="screenshot2.png" alt="result picture one" />
