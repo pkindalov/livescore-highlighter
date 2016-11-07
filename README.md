@@ -25,3 +25,7 @@ Search and if find team highlight background with yellow and underline team name
 Firsty, you must install Chrome plugin called <strong><em>Tampermonkey</em></strong> If you have installed it properly then icon must appeart top right near to address bar. Show it in next screenshot.
 <img src="Tampermonkey installed.png" alt="Picture show icon to now installed Tampermonkey top right to address bar" />
 </p>
+
+<p>Secondly... Now when you have installed Tampermonkey plugin to your Chrome browser, now must open Tampermonkey dashboard.
+<img src="Tampermonkey Dashboard.png" alt="Showing Tampermonkey`s dashboard" />
+</p>
