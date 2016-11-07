@@ -26,6 +26,13 @@ Firsty, you must install Chrome plugin called <strong><em>Tampermonkey</em></str
 <img src="Tampermonkey installed.png" alt="Picture show icon to now installed Tampermonkey top right to address bar" />
 </p>
 
-<p>Secondly... Now when you have installed Tampermonkey plugin to your Chrome browser, now must open Tampermonkey dashboard.
+<p>Secondly... Now when you have installed Tampermonkey plugin to your Chrome browser, now must open Tampermonkey dashboard.<br />
 <img src="Tampermonkey Dashboard.png" alt="Showing Tampermonkey`s dashboard" />
 </p>
+
+<p>
+Next step is to click on a little green plus sign, left on installed userscripts tab.
+<img src="AddNewScriptGreenPlusSign.png" alt="You must click on green plus icon on the left of userscripts tab." />
+</p>
+
+
