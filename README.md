@@ -35,4 +35,10 @@ Next step is to click on a little green plus sign, left on installed userscripts
 <img src="AddNewScriptGreenPlusSign.png" alt="You must click on green plus icon on the left of userscripts tab." />
 </p>
 
+<p>
+Now you must see this window...
+<img src="UserscriptsDefaultEditor.png" alt="Picture is showing usercripts default editor" />
+
+</p>
+
 
