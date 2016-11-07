@@ -45,4 +45,9 @@ Next step is to copy/paste all code from Livescore Highlighter.js in this window
 <img src="All code is pasted.png" alt="Showing where to paste code from Livescore Highlighter.js" />
 </p>
 
+<p>
+When you paste code and you are ready, next you must do is to click on save icon(second icon from left to right under the Editor tab). After this step on tab installed superscripts must appear the new sript like on screenshot below.
+<img src="TheNewScriptShowing.png" alt="The new saved script now appear in installed userscripts tab" /> 
+</p>
+
 
