@@ -19,3 +19,9 @@ Search and if find team highlight background with yellow and underline team name
                 }, 30000); 
 </code>
 </p>
+
+
+<p><strong>How to put this code in Google Chrome ?</strong>
+Firsty, you must install Chrome plugin called <strong><em>Tampermonkey</em></strong> If you have installed it properly then icon must appeart top right near to address bar. Show it in next screenshot.
+<img src="Tampermonkey installed.png" alt="Picture show icon to now installed Tampermonkey top right to address bar" />
+</p>
