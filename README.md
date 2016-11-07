@@ -50,4 +50,9 @@ When you paste code and you are ready, next you must do is to click on save icon
 <img src="TheNewScriptShowing.png" alt="The new saved script now appear in installed userscripts tab" /> 
 </p>
 
+<p>
+Now you can click on "OFF" button to turn on script like picture bellow.
+<img src="TurnOnNewScript.png" alt="The new script is turned on" />
+</p>
+
 
