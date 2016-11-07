@@ -38,7 +38,11 @@ Next step is to click on a little green plus sign, left on installed userscripts
 <p>
 Now you must see this window...
 <img src="UserscriptsDefaultEditor.png" alt="Picture is showing usercripts default editor" />
+</p>
 
+<p>
+Next step is to copy/paste all code from Livescore Highlighter.js in this window like it is showing on the next screenshot.
+<img src="All code is pasted.png" alt="Showing where to paste code from Livescore Highlighter.js" />
 </p>
 
 
